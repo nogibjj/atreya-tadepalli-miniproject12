@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
+[![Build and Push Docker Image](https://github.com/nogibjj/atreya-tadepalli-miniproject12/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/atreya-tadepalli-miniproject12/actions/workflows/cicd.yml)
 # Flask App - TV presence in text
 
 
